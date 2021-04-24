@@ -5,6 +5,7 @@ File Directory
 
 
 💼1- Simple Python
+      
       📁dq1 - Profitable Apps for the App Store and Google Play Store
             🗒Data (.csv)
             🗒Data (.csv)
@@ -14,11 +15,13 @@ File Directory
             📕Jupyter Notebook (.ipynb)
             
 💼2- Numpy and Pandas/dq3- Exploring EBay Car Sales Data
+      
       📁dq3- Exploring EBay Car Sales Data
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
 
 💼3- Pandas, Matplotlib, Seaborn - 1
+      
       📁dq4- Finding Heavy Traffic Indicators
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
@@ -30,6 +33,7 @@ File Directory
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
 💼4- Pandas, Matplotlib, Seaborn - 2
+      
       📁dq7- Analyzing NYC High School Data
             Schools
                   🗒data
