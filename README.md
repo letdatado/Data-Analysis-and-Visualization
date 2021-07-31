@@ -19,6 +19,7 @@ File Directory
       📁dq3- Exploring EBay Car Sales Data
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
 
 💼3- Pandas, Matplotlib, Seaborn - 1
       
