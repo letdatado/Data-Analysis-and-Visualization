@@ -10,6 +10,7 @@ File Directory
             🗒Data (.csv)
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
       📁dq2 - Exploring Hacker News Posts
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
