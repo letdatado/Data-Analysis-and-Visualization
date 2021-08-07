@@ -14,6 +14,8 @@ File Directory
       📁dq2 - Exploring Hacker News Posts
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
+
             
 💼2- Numpy and Pandas/dq3- Exploring EBay Car Sales Data
       
