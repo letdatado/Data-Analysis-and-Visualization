@@ -29,13 +29,16 @@ File Directory
       📁dq4- Finding Heavy Traffic Indicators
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
       📁dq5- Storytelling Data Visualization on Exchange Rates
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
       📁dq6- Clean and Analyze Employee Exit Surveys
             🗒Data (.csv)
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
 💼4- Pandas, Matplotlib, Seaborn - 2
       
       📁dq7- Analyzing NYC High School Data
