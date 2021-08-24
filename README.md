@@ -49,6 +49,7 @@ File Directory
       📁dq8- Star Wars Survey
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
       📁dq11- Popular Data Sciences Questions
             🗒Data (.csv)
             🗒Data (.csv)
