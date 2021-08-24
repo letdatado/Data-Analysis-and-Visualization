@@ -53,3 +53,4 @@ File Directory
             🗒Data (.csv)
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
