@@ -3,6 +3,8 @@
 File Directory
 # Data-Analysis-and-Visualization
 
+This repository contains non-ML Data Analytical work on a variety of Datasets
+
 
 💼1- Simple Python
       
