@@ -49,6 +49,7 @@ This repository contains non-ML Data Analyticz work on a variety of Datasets
                   🗒data
             🗒Data (.xls)
             📕Jupyter Notebook (.ipynb)
+            🖼️Image
       📁dq8- Star Wars Survey
             🗒Data (.csv)
             📕Jupyter Notebook (.ipynb)
