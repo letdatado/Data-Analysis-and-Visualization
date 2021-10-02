@@ -2,7 +2,7 @@
 
 File Directory
 
-This repository contains non-ML Data Analyticz work on a variety of Datasets
+This repository contains non-ML Data Analytics work on a variety of Datasets
 # Data-Analysis-and-Visualization
 
 
